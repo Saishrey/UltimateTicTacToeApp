@@ -1,3 +1,38 @@
 <resources>
     <string name="app_name">Tic Tac Toe</string>
+    <string name="settings_title">Settings</string>
+    <string name="multiplayer_title">Multiplayer</string>
+    <string name="ai_easy_title">Solo - Easy</string>
+    <string name="ai_hard_title">Solo - Hard</string>
+
+    <string name="settings_play_as_x_label">X - Cross</string>
+    <string name="settings_play_as_x_value" translatable="false">X</string>
+
+    <string name="settings_play_as_o_label">O - Nought</string>
+    <string name="settings_play_as_o_value" translatable="false">O</string>
+
+    <string name="settings_play_as_key">play_as</string>
+    <string name="settings_play_as_title">Play as</string>
+
+    <string name="settings_play_as_default_value">@string/settings_play_as_o_value</string>
+    <!-- Settings Activity Title -->
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
 </resources>

@@ -10,6 +10,18 @@
     tools:context=".MainMenu">
 
     <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/multiplayer_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="20dp"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:background="@drawable/round_black_blue1000"
+        android:text="Multiplayer"
+        android:textColor="@color/white" />
+
+    <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/play_against_ai_easy"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -18,7 +30,7 @@
         android:layout_marginEnd="20dp"
         android:foreground="?android:attr/selectableItemBackground"
         android:background="@drawable/round_easy_green"
-        android:text="Play against AI - easy"
+        android:text="Solo - easy"
         android:textColor="@color/white" />
 
     <androidx.appcompat.widget.AppCompatButton
@@ -30,18 +42,7 @@
         android:layout_marginEnd="20dp"
         android:foreground="?android:attr/selectableItemBackground"
         android:background="@drawable/round_hard_red"
-        android:text="Play against AI - Hard"
+        android:text="Solo - Hard"
         android:textColor="@color/white" />
 
-    <androidx.appcompat.widget.AppCompatButton
-        android:id="@+id/multiplayer_button"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginStart="20dp"
-        android:layout_marginTop="40dp"
-        android:layout_marginEnd="20dp"
-        android:foreground="?android:attr/selectableItemBackground"
-        android:background="@drawable/round_black_blue1000"
-        android:text="Multiplayer"
-        android:textColor="@color/white" />
 </LinearLayout>

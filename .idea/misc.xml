@@ -13,9 +13,15 @@
         <entry key="..\:/Users/Saishrey/AndroidStudioProjects/UltimateTicTacToe/app/src/main/res/layout/activity_add_players.xml" value="0.2563405797101449" />
         <entry key="..\:/Users/Saishrey/AndroidStudioProjects/UltimateTicTacToe/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/Saishrey/AndroidStudioProjects/UltimateTicTacToe/app/src/main/res/layout/activity_main_menu.xml" value="0.25" />
+        <entry key="..\:/Users/Saishrey/AndroidStudioProjects/UltimateTicTacToe/app/src/main/res/layout/activity_splash_screen.xml" value="0.25" />
         <entry key="..\:/Users/Saishrey/AndroidStudioProjects/UltimateTicTacToe/app/src/main/res/layout/difficulty_level_dialog_layout.xml" value="0.3625" />
+        <entry key="..\:/Users/Saishrey/AndroidStudioProjects/UltimateTicTacToe/app/src/main/res/layout/settings_activity.xml" value="0.1" />
+        <entry key="..\:/Users/Saishrey/AndroidStudioProjects/UltimateTicTacToe/app/src/main/res/layout/settings_main.xml" value="0.1757852077001013" />
         <entry key="..\:/Users/Saishrey/AndroidStudioProjects/UltimateTicTacToe/app/src/main/res/layout/win_dialog_layout.xml" value="0.22" />
+        <entry key="..\:/Users/Saishrey/AndroidStudioProjects/UltimateTicTacToe/app/src/main/res/menu/main.xml" value="0.21944444444444444" />
         <entry key="..\:/Users/Saishrey/AndroidStudioProjects/UltimateTicTacToe/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1935" />
+        <entry key="..\:/Users/Saishrey/AndroidStudioProjects/UltimateTicTacToe/app/src/main/res/xml/root_preferences.xml" value="0.1" />
+        <entry key="..\:/Users/Saishrey/AndroidStudioProjects/UltimateTicTacToe/app/src/main/res/xml/settings_main.xml" value="0.21629213483146068" />
       </map>
     </option>
   </component>

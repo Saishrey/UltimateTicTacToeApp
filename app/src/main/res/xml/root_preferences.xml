@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="@string/settings_title">
+
+    <ListPreference
+        android:defaultValue="@string/settings_play_as_default_value"
+        android:entries="@array/settings_play_as_x"
+        android:entryValues="@array/settings_play_as_o"
+        android:key="@string/settings_play_as_key"
+        android:title="@string/settings_play_as_title" />
+
+</PreferenceScreen>

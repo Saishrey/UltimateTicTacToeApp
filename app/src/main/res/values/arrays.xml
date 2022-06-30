@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_play_as_x">
+        <item>@string/settings_play_as_x_label</item>
+        <item>@string/settings_play_as_o_label</item>
+    </string-array>
+
+    <string-array name="settings_play_as_o">
+        <item>@string/settings_play_as_x_value</item>
+        <item>@string/settings_play_as_o_value</item>
+    </string-array>
+    <!-- Reply Preference -->
+    <string-array name="reply_entries">
+        <item>Reply</item>
+        <item>Reply to all</item>
+    </string-array>
+
+    <string-array name="reply_values">
+        <item>reply</item>
+        <item>reply_all</item>
+    </string-array>
+</resources>
