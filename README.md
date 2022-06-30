@@ -3,20 +3,22 @@
 <table style="border-colapse: colapse;">
   <tr>
     <th>Main Menu</th>
+    <th>Settings</th>
     <th>Game Over</th>
-    <th>Multiplayer Gameplay</th>
   </tr>
   <tr>
-    <td><img src="ss/Main_menu.jpg" width="400"></td>
-    <td><img src="ss/gameover.jpg" width="400"></td>
-    <td><img src="ss/MP_gameplay.jpg" width="400"></td>
+    <td><img src="ss/main_menu.jpg" width="400"></td>
+    <td><img src="ss/settings.jpg" width="400"></td>
+    <td><img src="ss/game_over.jpg" width="400"></td>
   </tr>
   <tr>
-    <th>AI Gameplay - Easy</th>
-    <thAI Gameplay - Hard</th>
+    <th>Multiplayer</th>
+    <th>Solo - Easy</th>
+    <th>Solo - Hard</th>
   </tr>
   <tr>
-    <td><img src="ss/AI_Easy.jpg" width="400"></td>
-    <td><img src="ss/AI_Hard.jpg" width="400"></td>
+    <td><img src="ss/multiplayer.jpg" width="400"></td>
+    <td><img src="ss/solo_easy.jpg" width="400"></td>
+    <td><img src="ss/solo_hard.jpg" width="400"></td>
   </tr>
 </table>
